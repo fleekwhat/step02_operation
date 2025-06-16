@@ -23,9 +23,10 @@ public class MainClass05 {
 		int num = 10;
 		double num2 = 10.1;
 		boolean isRun = true;
+		String yourName = "해골";
 		
 		
 		
-		
+	}
 		
 }
