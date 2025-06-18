@@ -30,6 +30,8 @@ public class MainClass01 {
 		System.out.println(randomByte);
 		
 		
+		
+		
 		//콘솔창에 문자열을 출력하고 싶다면? 콘솔창에 문자열을 출력해 주는 기능을 가지고 있는 객체가 필요하다.
 		
 		//파일 시스템에 memo.txt 파일을 만들고 싶다면? 파일을 만들 수 있는 기능을 가지고 있는 객체가 필요하다.
