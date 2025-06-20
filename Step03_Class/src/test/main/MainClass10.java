@@ -1,0 +1,21 @@
+package test.main;
+
+import test.mypac.MemberInfo;
+
+public class MainClass10 {
+	
+	public static void main(String[] args) {
+		
+		MemberInfo m1 = new MemberInfo();
+		m1.num = 1; m1.name = "김구라"; m1.addr = "노량진";
+		m1.printData();
+
+		MemberInfo m2 = new MemberInfo();
+		m2.num = 2; m2.name = "해골"; m2.addr = "무덤";
+		m2.printData();
+		
+		MemberInfo m3 = new MemberInfo();
+		m3.num = 3; m3.name = "원숭이"; m3.addr = "동물원";
+		m3.printData();
+	}
+}
